@@ -11,21 +11,24 @@
     <h3>system</h3>
     <ul>
       <li>
-        <a href="https://router.vuejs.org" target="_blank" rel="noopener"
+        <a href="https://www.edumaterials.org/" target="_blank" rel="noopener"
           >Edu materals</a
         >
       </li>
       <li>
         <a
-          href="https://github.com/vuejs/vue-devtools#vue-devtools"
+          href="https://www.brookings.edu/research/skills-for-a-changing-world/"
           target="_blank"
           rel="noopener"
-          >Videos</a
+          >Skills for a changing world</a
         >
       </li>
       <li>
-        <a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener"
-          >Mitigation</a
+        <a
+          href="https://www.greenpeace.org.uk/all-resources/education-resources/"
+          target="_blank"
+          rel="noopener"
+          >Spread World</a
         >
       </li>
     </ul>
